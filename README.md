@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristianBourget
-- 👀 I’m interested in Mecanical systems,electronics and big robots
-- 🌱 I’m currently learning Automated system engineering
+- 👀 I’m interested in Mecanical systems,electronics, automation and robots
+- 🌱 I’m currently learning Electrical engineering
 - 💞️ I’m looking to collaborate on Automation projects
 - 📫 How to reach me :christian.bourget.93@gmail.com
 
